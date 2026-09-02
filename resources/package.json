@@ -4,7 +4,7 @@
   "private": true,
   "main": "src/index.ts",
   "dependencies": {
-    "axios": "^1.19.0"
+    "axios": "^1.20.0"
   },
   "devDependencies": {
     "@aws-sdk/client-s3": "^3.1097.0",
